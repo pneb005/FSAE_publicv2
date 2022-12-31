@@ -1,5 +1,5 @@
 # FSAE_publicv2
-Google Calendar API Discord Bot for the UNCC Formula SAE Team
+Google Calendar Event Notification Bot for the UNCC Formula SAE Team
 
 ![image](https://user-images.githubusercontent.com/90803531/210123558-f350ebd9-69cd-4ed9-b697-0067358396f0.png)
 
