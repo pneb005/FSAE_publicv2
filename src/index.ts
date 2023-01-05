@@ -232,8 +232,8 @@ let obj:any = { //create empty object
   table: []
 };
 
-const updates = class{
-    i_num:any;
+class updates{
+    i_num:number;
   constructor(i_num:number){
     this.i_num=i_num;
   }
