@@ -1,5 +1,6 @@
 # FSAE_publicv2
 Google Calendar Event Notification Discord Bot for the UNCC Formula SAE Team
+- AWS EC2 Hosted
 - TypeScript using NodeJS runtime
 
 ![image](https://user-images.githubusercontent.com/90803531/210123558-f350ebd9-69cd-4ed9-b697-0067358396f0.png)
